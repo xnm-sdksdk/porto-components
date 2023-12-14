@@ -1,0 +1,19 @@
+@tailwind base; /*normalize css across browser*/
+@tailwind components; /*keep all the components classes and add-ons*/
+@tailwind utilities; /*the borders, colors, etc*/
+
+@layer base {
+  body {
+    @apply
+        bg-white
+        text-slate-800
+        dark:bg-slate-800
+        dark:text-white;
+  }
+  h1 {
+    @apply
+        text-xl
+        font-bold
+        text-teal-500
+  }
+}
