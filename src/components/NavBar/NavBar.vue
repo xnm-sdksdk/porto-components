@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav>
+    <nav class="bg-gray-300">
       <PButton :text="About"></PButton>
       <PButton :text="Services"></PButton>
       <PButton :text="Contact"></PButton>
