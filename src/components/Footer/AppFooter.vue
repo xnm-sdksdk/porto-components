@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="bg-gray-300">
     <div class="">
       <h3>Get in touch</h3>
       <p>Email: Email@email.com</p>
