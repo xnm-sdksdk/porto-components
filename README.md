@@ -4,7 +4,7 @@
 
 ## Project setup
 ```
-npm install
+npm install porto-components
 ```
 
 ### Compiles and hot-reloads for development
