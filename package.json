@@ -4,7 +4,7 @@
   "main": "dist/porto-components.common.js",
   "module": "dist/porto-components.umd.min.js",
   "author": "Nuno Mendonça",
-  "description": "##Project setup ``` npm install ```",
+  "description": "Speed up front-end development process.",
   "files": [
     "dist"
   ],
