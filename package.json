@@ -1,6 +1,6 @@
 {
   "name": "porto-components",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "dist/porto-components.common.js",
   "module": "dist/porto-components.umd.min.js",
   "author": "Nuno Mendonça",
