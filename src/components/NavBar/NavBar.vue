@@ -1,6 +1,9 @@
 <template>
   <div>
     <nav class="bg-gray-300">
+      <router-link :to="{ name: 'home' }">
+        <PButton :text="Home"></PButton>
+      </router-link>
       <router-link :to="{ name: 'about' }">
         <PButton :text="About"></PButton>
       </router-link>
@@ -23,6 +26,7 @@ export default {
   },
   data() {
     return {
+      Home: "Home",
       About: "About Us",
       Services: "Services",
       Contact: "Contact",
