@@ -1,9 +1,15 @@
 <template>
   <div>
     <nav class="bg-gray-300">
-      <PButton :text="About"></PButton>
-      <PButton :text="Services"></PButton>
-      <PButton :text="Contact"></PButton>
+      <router-link :to="{ name: 'about' }">
+        <PButton :text="About"></PButton>
+      </router-link>
+      <router-link :to="{ name: 'services' }">
+        <PButton :text="Services"></PButton>
+      </router-link>
+      <router-link :to="{ name: 'contact' }">
+        <PButton :text="Contact"></PButton>
+      </router-link>
     </nav>
   </div>
 </template>
