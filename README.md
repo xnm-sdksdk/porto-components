@@ -1,6 +1,6 @@
 # Vue porto-components
 
-- Vue [porto-components](https://github.com/xnm-sdksdk/porto-components) is a project developed by [xnm-sdksdk](https://github.com/xnm-sdksdk) and [FredSilva21](https://github.com/FredSilva21), two developers from Porto, who decided to create several components in order to help the Vue Community in speeding up the development process of a project.
+- Vue [porto-components](https://github.com/xnm-sdksdk/porto-components) is a project developed by [xnm-sdksdk](https://github.com/xnm-sdksdk), a developer from Porto, who decided to create several components in order to help the Vue Community in speeding up the development process of a project.
 
 ## Project setup
 ```
