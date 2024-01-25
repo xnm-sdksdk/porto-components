@@ -29,7 +29,7 @@ export default {
       Home: "Home",
       About: "About Us",
       Services: "Services",
-      Contact: "Contact",
+      Contact: "Contacts",
     };
   },
 };
