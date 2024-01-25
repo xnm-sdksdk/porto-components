@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <nav class="bg-gray-300">
+  <div class="flex bg-grey-lighten-3 h-24 justify-center items-center">
+    <nav>
       <router-link :to="{ name: 'home' }">
         <PButton :text="Home"></PButton>
       </router-link>
