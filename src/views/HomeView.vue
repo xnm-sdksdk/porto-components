@@ -7,7 +7,7 @@
           <v-row class="justify-center">
             <v-col :cols="10">
               <!-- First Card -->
-              <v-card class="rounded-xl bg-red-lighten-1">
+              <v-card class="rounded-xl bg-red-lighten-1 py-4" height="200">
                 <v-card-title class="text-h4">
                   Welcome to Porto Components App
                 </v-card-title>
@@ -33,8 +33,8 @@
           <v-row class="justify-center">
             <v-col :cols="5">
               <v-card class="rounded-xl bg-red-lighten-1">
-                <v-card-title class="text-h5">Web Development</v-card-title>
-                <v-card-text class="text-left">
+                <v-card-title class="text-h5 py-3">Web Development</v-card-title>
+                <v-card-text class="text-left py-3 mx-3">
                   Our expert team crafts stunning and responsive websites
                   tailored to meet your business goals. Whether you need a
                   simple landing page or a complex e-commerce platform, we
@@ -47,8 +47,8 @@
             </v-col>
             <v-col :cols="5">
               <v-card class="rounded-xl bg-red-lighten-1">
-                <v-card-title class="text-h5">Software Solutions</v-card-title>
-                <v-card-text class="text-left">
+                <v-card-title class="text-h5 py-3">Software Solutions</v-card-title>
+                <v-card-text class="text-left py-3 mx-3">
                   Transform your business with our custom software solutions.
                   From user-friendly applications to enterprise-grade systems,
                   we develop software that enhances efficiency, productivity,
@@ -67,8 +67,8 @@
           <v-row class="justify-center">
             <v-col :cols="10">
               <v-card class="rounded-xl bg-red-lighten-1">
-                <v-card-title class="text-h5"> Cloud Computing </v-card-title>
-                <v-card-text class="text-left">
+                <v-card-title class="text-h5 py-3"> Cloud Computing </v-card-title>
+                <v-card-text class="text-left py-3 mx-3">
                   Harness the power of the cloud with our scalable and secure
                   solutions. Whether you're looking to migrate to the cloud,
                   optimize your infrastructure, or implement cloud-native
