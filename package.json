@@ -5,6 +5,10 @@
   "module": "dist/porto-components.umd.min.js",
   "author": "Nuno Mendonça",
   "description": "Speed up front-end development process.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xnm-sdksdk/porto-components"
+  },
   "files": [
     "dist"
   ],
